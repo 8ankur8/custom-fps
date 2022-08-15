@@ -1,0 +1,20 @@
+{
+  "name": "custom-fps",
+  "version": "1.1.0",
+  "description": "",
+  "main": "FPS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ankur8/custom-fps.git"
+  },
+  "keywords": [],
+  "author": "hollow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ankur8/custom-fps/issues"
+  },
+  "homepage": "https://github.com/8ankur8/custom-fps#readme"
+}
